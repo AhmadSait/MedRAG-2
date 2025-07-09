@@ -1,0 +1,10 @@
+test.ipynb
+figs/
+prediction/
+rawdata/
+src/
+code/results/
+docs
+*.out
+cot_code/results/
+*.json
